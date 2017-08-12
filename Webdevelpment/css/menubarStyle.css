@@ -10,6 +10,7 @@ div#menubar {
 
 div#menubar nav {
 	background-color: #212121;
+	box-shadow: 0px 5px 15px 0px #151519;
 }
 
 div#menubar ul {
