@@ -1,0 +1,9 @@
+div#menubar {
+	margin: 0;
+	padding: 0;
+	background-color: #212121;
+}
+
+div#menubar a {
+	background-color: white;
+}
