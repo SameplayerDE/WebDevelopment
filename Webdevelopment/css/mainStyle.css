@@ -1,0 +1,17 @@
+body {
+	background-color: #e2c69e;
+}
+
+div#menubar nav {
+	background-color: #d1956a;
+	box-shadow: 0px 5px 15px 0px #ba6244;
+}
+
+div#menubar a {
+	background-color: #d1956a;
+	color: #8e4026;
+}
+
+div#menubar a:hover {
+	color: #662611;
+}
