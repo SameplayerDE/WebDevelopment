@@ -6,4 +6,7 @@ div#menubar {
 
 div#menubar a {
 	background-color: white;
+	text-transform: uppercase;
+	font-family: monospace;
+	font-size: 18px;
 }
