@@ -1,12 +1,25 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
 div#menubar {
 	margin: 0;
 	padding: 0;
 	background-color: #212121;
 }
 
+div#menubar ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
 div#menubar a {
-	background-color: white;
+	background-color: #212121;
 	text-transform: uppercase;
 	font-family: monospace;
+	text-decoration: none;
+	color: white;
 	font-size: 18px;
 }
